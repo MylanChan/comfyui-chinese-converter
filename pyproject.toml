@@ -7,7 +7,7 @@ license = "MIT"
 keywords = ["chinese", "converter", "opencc"]
 
 [project]
-name = "ComfyUI-ChineseConverter"
+name = "comfyui-chinese-converter"
 version = "1.0.0"
 description = "Chinese Traditional and Simplified converter for ComfyUI"
 authors = [
