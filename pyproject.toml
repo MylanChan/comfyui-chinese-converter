@@ -21,3 +21,7 @@ dependencies = [
 ]
 [project.urls]
 Repository = "https://github.com/MylanChan/comfyui-chinese-converter"
+
+[tool.comfy]
+PublisherId = "mylanchan"
+DisplayName = "comfyui-chinese-converter"
