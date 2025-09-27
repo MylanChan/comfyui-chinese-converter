@@ -1,0 +1,23 @@
+[metadata]
+title = "ComfyUI Chinese Converter"
+description = "Chinese Traditional and Simplified converter for ComfyUI"
+author = "Mylan Chan"
+version = "1.0.0"
+license = "MIT"
+keywords = ["chinese", "converter", "opencc"]
+
+[project]
+name = "ComfyUI-ChineseConverter"
+version = "1.0.0"
+description = "Chinese Traditional and Simplified converter for ComfyUI"
+authors = [
+    {name = "Mylan Chan"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "opencc-python-reimplemented>=0.1.0"
+]
+[project.urls]
+Repository = "https://github.com/MylanChan/comfyui-chinese-converter"
